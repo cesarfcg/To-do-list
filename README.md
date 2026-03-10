@@ -5,7 +5,7 @@ The project implements full **CRUD operations** for creating, reading, updating,
 
 ---
 
-## 🚀 Technologies Used
+##  Technologies Used
 
 - Java 17+
 - Spring Boot
@@ -17,7 +17,7 @@ The project implements full **CRUD operations** for creating, reading, updating,
 
 ---
 
-## 📌 Features
+##  Features
 
 - ✅ Create a new task
 - 📋 List all tasks
