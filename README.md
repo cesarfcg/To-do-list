@@ -40,7 +40,7 @@ spring.jpa.hibernate.ddl-auto=update
 
 ```bash
 git clone https://github.com/cesarfcg/To-do-list.git
-cd todo-api
+cd To-do-list
 ./mvnw spring-boot:run
 ```
 
