@@ -26,13 +26,12 @@ src/main/resources/application.properties
 ```
 
 ```properties
-spring.datasource.url=jdbc:mysql://localhost:3306/todo_db
-spring.datasource.username=root
-spring.datasource.password=your_password
+spring.datasource.url=jdbc:mysql://localhost:3306/YOUR_DB
+spring.datasource.username=YOUR_NAME
+spring.datasource.password=O+YOUR_PASSWORD
 
 spring.jpa.hibernate.ddl-auto=update
-spring.jpa.show-sql=true
-spring.jpa.database-platform=org.hibernate.dialect.MySQL8Dialect
+
 ```
 
 ---
@@ -52,13 +51,13 @@ http://localhost:8080
 ---
 
 ## 📖 API Documentation
-
+The API documentation is available through **Swagger UI**, allowing you to explore and test all endpoints interactively.
 ```
 http://localhost:8080/swagger-ui.html
 ```
 
 ### 📷 Preview
-![Swagger UI](./docs/swagger.png)
+![Swagger UI](./images/swagger.png)
 
 ---
 
