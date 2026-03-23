@@ -28,7 +28,7 @@ src/main/resources/application.properties
 ```properties
 spring.datasource.url=jdbc:mysql://localhost:3306/YOUR_DB
 spring.datasource.username=YOUR_NAME
-spring.datasource.password=O+YOUR_PASSWORD
+spring.datasource.password=YOUR_PASSWORD
 
 spring.jpa.hibernate.ddl-auto=update
 
